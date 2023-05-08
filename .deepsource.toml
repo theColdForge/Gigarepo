@@ -4,13 +4,13 @@ version = 1
 name = "csharp"
 
 [[analyzers]]
-name = "scala"
-
-[[analyzers]]
 name = "rust"
 
   [analyzers.meta]
   msrv = "stable"
+
+[[analyzers]]
+name = "scala"
 
 [[analyzers]]
 name = "php"
