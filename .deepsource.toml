@@ -83,3 +83,6 @@ name = "isort"
 
 [[transformers]]
 name = "yapf"
+
+[[transformers]]
+name = "scalafmt"
