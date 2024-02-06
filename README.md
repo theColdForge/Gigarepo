@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  DeepSource helps developers ship good code.
+  DeepSource helps developers ship good code................
 </p>
 
 </p>
