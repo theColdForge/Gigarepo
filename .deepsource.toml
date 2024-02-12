@@ -1,10 +1,19 @@
 version = 1
 
 [[analyzers]]
+name = "shell"
+
+[[analyzers]]
+name = "scala"
+
+[[analyzers]]
 name = "rust"
 
   [analyzers.meta]
   msrv = "stable"
+
+[[analyzers]]
+name = "ruby"
 
 [[analyzers]]
 name = "python"
@@ -13,25 +22,16 @@ name = "python"
   runtime_version = "3.x.x"
 
 [[analyzers]]
-name = "shell"
-
-[[analyzers]]
-name = "scala"
-
-[[analyzers]]
-name = "ruby"
-
-[[analyzers]]
 name = "php"
+
+[[analyzers]]
+name = "javascript"
 
 [[analyzers]]
 name = "java"
 
   [analyzers.meta]
   runtime_version = "11"
-
-[[analyzers]]
-name = "javascript"
 
 [[analyzers]]
 name = "go"
